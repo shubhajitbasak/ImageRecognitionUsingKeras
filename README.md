@@ -1,8 +1,3 @@
-![](Thumbnails/1.PNG)
-
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/1.jpg)
-
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/2.jpg)
 
 # Image Recognition with Conv Net Using Keras
 
@@ -90,3 +85,8 @@ One major advantage is we do not have to train the model with new faces, when a 
  4. Detect images through webcam and show the detected labels with the distances
 
 
+![](Thumbnails/1.PNG)
+
+![](Thumbnails/2.PNG)
+
+![](Thumbnails/3.PNG)
