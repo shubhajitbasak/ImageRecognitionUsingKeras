@@ -1,4 +1,4 @@
-![IMAGE ALT TEXT HERE](thumbnails/1.png)
+![IMAGE ALT TEXT HERE](Thumbnails/1.png)
 
 ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/1.jpg)
 
