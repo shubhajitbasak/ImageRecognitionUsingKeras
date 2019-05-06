@@ -1,6 +1,8 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/0.jpg)]
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/1.jpg)]
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/2.jpg)]
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/0.jpg)
+
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/1.jpg)
+
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PnHBsQ7mhbc/2.jpg)
 
 # Image Recognition with Conv Net Using Keras
 
