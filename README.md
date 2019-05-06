@@ -64,3 +64,23 @@ The value of the loss decreses with time as follows :
 ![](Images/PlotImages.png)
 
 From Fig 3 and Fig 5 we can see the K-Means Clustered the Images correctly in the same clusters for 4 different players
+
+#### Part VII:
+
+**Face Detection with One Shot Learning**
+
+With the above face embedding we can create a face detector using One Shot Learning, where we will save a single image of each person and compare their embedding with the embedding of the face detected in the camera screen.
+
+One major advantage is we do not have to train the model with new faces, when a new person's image has been added to our database it will automatically compare the embedding with that image and classify it.
+
+ 1. Create a database with images captured by the webcam of the laptop
+ 2. Create embedding Dictionary for the Database Images - create a dictionary of embedding vectors for each image from our database, key will be the name of the file and value will be the embedding vectors
+ 3. Create the Face Recognition function
+     Logic - 
+     * Detect the faces with in the camera window
+     * For each face detected in the window calculate the embedding and compare the euclidean distance with the images stored in the database
+     * Return a match when the euclidean distance is less than a pre-defined threshold
+     * This threshold needs to be adjusted according to the data
+ 4. Detect images through webcam and show the detected labels with the distances
+
+![](https://drive.google.com/file/d/1_ZJhk7OU_rUiH6nKmAOeTsZJOqseelrQ/view?usp=sharing)
