@@ -83,4 +83,4 @@ One major advantage is we do not have to train the model with new faces, when a 
      * This threshold needs to be adjusted according to the data
  4. Detect images through webcam and show the detected labels with the distances
 
-     ![](https://drive.google.com/drive/folders/1JUloFiop--EhIxx5vAlgVyj1-aiJ1PMQ)
+     ![](https://drive.google.com/open?id=1_ZJhk7OU_rUiH6nKmAOeTsZJOqseelrQ)
